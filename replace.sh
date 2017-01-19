@@ -20,24 +20,32 @@ sed -e 's/<tr>//' \
     -e 's/<\/a>//' $destination > $destination'.tmp'
 
 mv $destination'.tmp' $destination
-
+# cat $destination
 
 # Join all the newline together
 # Reference: http://www.thegeekstuff.com/2012/12/linux-tr-command/
 cat $destination | tr -s '\n' ' ' > $destination'.tmp'
 mv $destination'.tmp' $destination
+# cat $destination
 
 
-
-# Add new line to the beginning of each verb
-cat $destination | sed -E 's/([0-9]:[0-9]+)/\n\1/g' > $destination'.tmp'
+# Add new line to the beginning of each verb, also append ':' at the end for verb number
+cat $destination | sed -E 's/([0-9]:[0-9]+)/\n\1:/g' > $destination'.tmp'
 mv $destination'.tmp' $destination
 # cat $destination
 
 # Reference: https://jaywcjlove.github.io/linux-command/c/awk.html
-awk 'BEGIN{ FS=":" } { print $NF }' $destination
+awk -F: ' { print $1 "\t"$2 "\t" $3}' $destination > $destination'.tmp'
+mv $destination'.tmp' $destination
 
-# cat $destination | awk -fs ':' '{print $2}'
+# cat $destination
+
+# Print anyline that starts with number or in another word, remove empty line
+# Reference: http://www.unix.com/shell-programming-and-scripting/151050-deleting-lines-not-starting-numbers-sed.html
+sed -n '/[0-9]/p' $destination > $destination'.tmp'
+mv $destination'.tmp' $destination
+cat $destination
+cp $destination $destination'.csv'
 
 
 
