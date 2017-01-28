@@ -1,8 +1,15 @@
 #!/bin/bash
 
+#Call sample: ./replace.sh hb5_origin/gen/gen1.htm Genesis
 
 source=$1
-destination='transformed/'$1
+book=$2
+
+[ -z "$2" ] && { echo "Please enter a name for the Book."; exit 1; }
+
+
+
+destination='transformed/'$1'.txt'
 mkdir -p "$(dirname "$destination")" && touch "$destination"
 
 # Convert source file to UTF-8 charset
@@ -35,7 +42,7 @@ mv $destination'.tmp' $destination
 # cat $destination
 
 # Reference: https://jaywcjlove.github.io/linux-command/c/awk.html
-awk -F: ' { print $1 "\t"$2 "\t" $3}' $destination > $destination'.tmp'
+awk -v BOOK=$book 'BEGIN{ FS=":"} { print BOOK "\t" $1 "\t"$2 "\t"BOOK " "$1":"$2"\t"$3 }' $destination > $destination'.tmp'
 mv $destination'.tmp' $destination
 
 # cat $destination
@@ -44,11 +51,14 @@ mv $destination'.tmp' $destination
 # Reference: http://www.unix.com/shell-programming-and-scripting/151050-deleting-lines-not-starting-numbers-sed.html
 sed -n '/[0-9]/p' $destination > $destination'.tmp'
 mv $destination'.tmp' $destination
+
+
+# Adding a header row for drpual import
+echo -e "book\tchapter\tverse\ttitle\tbody\n$(cat $destination)" > $destination
+
 cat $destination
-cp $destination $destination'.csv'
 
-
-
+cp $destination ~/Desktop/test.csv
 # grep --color -h '^[^<]' gen1.html |
 # sed -e 's/<a href="#top">//' \
 #     -e 's/Return to top of page<\/font>//' \
