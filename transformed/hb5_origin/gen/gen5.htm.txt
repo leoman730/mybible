@@ -1,0 +1,33 @@
+book	chapter	verse	title	body
+Genesis	5	1	Genesis 5:1	 亞 當 的 後 代 、 記 在 下 面 。 當 　 神 造 人 的 日 子 、 是 照 著 自 己 的 樣 式 造 的 、 
+Genesis	5	2	Genesis 5:2	 並 且 造 男 造 女 、 在 他 們 被 造 的 日 子 、 　 神 賜 福 給 他 們 、 稱 他 們 為 人 。 
+Genesis	5	3	Genesis 5:3	 亞 當 活 到 一 百 三 十 歲 、 生 了 一 個 兒 子 、 形 像 樣 式 和 自 己 相 似 、 就 給 他 起 名 叫 塞 特 。 
+Genesis	5	4	Genesis 5:4	 亞 當 生 塞 特 之 後 、 又 在 世 八 百 年 ． 並 且 生 兒 養 女 。 
+Genesis	5	5	Genesis 5:5	 亞 當 共 活 了 九 百 三 十 歲 就 死 了 。 
+Genesis	5	6	Genesis 5:6	 塞 特 活 到 一 百 零 五 歲 、 生 了 以 挪 士 。 
+Genesis	5	7	Genesis 5:7	 塞 特 生 以 挪 士 之 後 、 又 活 了 八 百 零 七 年 ． 並 且 生 兒 養 女 。 
+Genesis	5	8	Genesis 5:8	 塞 特 共 活 了 九 百 一 十 二 歲 就 死 了 。 
+Genesis	5	9	Genesis 5:9	 以 挪 士 活 到 九 十 歲 、 生 了 該 南 。 
+Genesis	5	10	Genesis 5:10	 以 挪 士 生 該 南 之 後 、 又 活 了 八 百 一 十 五 年 ． 並 且 生 兒 養 女 。 
+Genesis	5	11	Genesis 5:11	 以 挪 士 共 活 了 九 百 零 五 歲 就 死 了 。 
+Genesis	5	12	Genesis 5:12	 該 南 活 到 七 十 歲 、 生 了 瑪 勒 列 。 
+Genesis	5	13	Genesis 5:13	 該 南 生 瑪 勒 列 之 後 、 又 活 了 八 百 四 十 年 ． 並 且 生 兒 養 女 。 
+Genesis	5	14	Genesis 5:14	 該 南 共 活 了 九 百 一 十 歲 就 死 了 。 
+Genesis	5	15	Genesis 5:15	 瑪 勒 列 活 到 六 十 五 歲 、 生 了 雅 列 。 
+Genesis	5	16	Genesis 5:16	 瑪 勒 列 生 雅 列 之 後 、 又 活 了 八 百 三 十 年 ． 並 且 生 兒 養 女 。 
+Genesis	5	17	Genesis 5:17	 瑪 勒 列 共 活 了 八 百 九 十 五 歲 就 死 了 。 
+Genesis	5	18	Genesis 5:18	 雅 列 活 到 一 百 六 十 二 歲 、 生 了 以 諾 。 
+Genesis	5	19	Genesis 5:19	 雅 列 生 以 諾 之 後 、 又 活 了 八 百 年 ． 並 且 生 兒 養 女 。 
+Genesis	5	20	Genesis 5:20	 雅 列 共 活 了 九 百 六 十 二 歲 就 死 了 。 
+Genesis	5	21	Genesis 5:21	 以 諾 活 到 六 十 五 歲 、 生 了 瑪 土 撒 拉 。 
+Genesis	5	22	Genesis 5:22	 以 諾 生 瑪 土 撒 拉 之 後 、 與 　 神 同 行 三 百 年 ． 並 且 生 兒 養 女 。 
+Genesis	5	23	Genesis 5:23	 以 諾 共 活 了 三 百 六 十 五 歲 。 
+Genesis	5	24	Genesis 5:24	 以 諾 與 　 神 同 行 、 　 神 將 他 取 去 、 他 就 不 在 世 了 。 
+Genesis	5	25	Genesis 5:25	 瑪 土 撒 拉 活 到 一 百 八 十 七 歲 、 生 了 拉 麥 。 
+Genesis	5	26	Genesis 5:26	 瑪 土 撒 拉 生 拉 麥 之 後 、 又 活 了 七 百 八 十 二 年 ． 並 且 生 兒 養 女 。 
+Genesis	5	27	Genesis 5:27	 瑪 土 撒 拉 共 活 了 九 百 六 十 九 歲 就 死 了 。 
+Genesis	5	28	Genesis 5:28	 拉 麥 活 到 一 百 八 十 二 歲 、 生 了 一 個 兒 子 、 
+Genesis	5	29	Genesis 5:29	 給 他 起 名 叫 挪 亞 、 說 、 這 個 兒 子 必 為 我 們 的 操 作 、 和 手 中 的 勞 苦 、 安 慰 我 們 ． 這 操 作 勞 苦 是 因 為 耶 和 華 咒 詛 地 。 
+Genesis	5	30	Genesis 5:30	 拉 麥 生 挪 亞 之 後 、 又 活 了 五 百 九 十 五 年 ． 並 且 生 兒 養 女 。 
+Genesis	5	31	Genesis 5:31	 拉 麥 共 活 了 七 百 七 十 七 歲 就 死 了 。 
+Genesis	5	32	Genesis 5:32	 挪 亞 五 百 歲 生 了 閃 、 含 、 雅 弗 。 
