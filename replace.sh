@@ -37,7 +37,7 @@ mv $destination'.tmp' $destination
 
 
 # Add new line to the beginning of each verb, also append ':' at the end for verb number
-cat $destination | sed -E 's/([0-9]:[0-9]+)/\n\1:/g' > $destination'.tmp'
+cat $destination | sed -E 's/([0-9]+:[0-9]+)/\n\1:/g' > $destination'.tmp'
 mv $destination'.tmp' $destination
 # cat $destination
 
