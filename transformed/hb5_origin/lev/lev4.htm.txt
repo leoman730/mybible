@@ -1,0 +1,36 @@
+book	chapter	verse	title	body
+Leviticus	4	1	Leviticus 4:1	 耶 和 華 對 摩 西 說 、 
+Leviticus	4	2	Leviticus 4:2	 你 曉 諭 以 色 列 人 說 、 若 有 人 在 耶 和 華 所 吩 咐 不 可 行 的 甚 麼 事 上 、 誤 犯 了 一 件 ． 
+Leviticus	4	3	Leviticus 4:3	 或 是 受 膏 的 祭 司 犯 罪 、 使 百 姓 陷 在 罪 裡 、 就 當 為 他 所 犯 的 罪 、 把 沒 有 殘 疾 的 公 牛 犢 、 獻 給 耶 和 華 為 贖 罪 祭 。 
+Leviticus	4	4	Leviticus 4:4	 他 要 牽 公 牛 到 會 幕 門 口 、 在 耶 和 華 面 前 、 按 手 在 牛 的 頭 上 、 把 牛 宰 於 耶 和 華 面 前 。 
+Leviticus	4	5	Leviticus 4:5	 受 膏 的 祭 司 、 要 取 些 公 牛 的 血 、 帶 到 會 幕 、 
+Leviticus	4	6	Leviticus 4:6	 把 指 頭 蘸 於 血 中 、 在 耶 和 華 面 前 、 對 著 聖 所 的 幔 子 、 彈 血 七 次 。 
+Leviticus	4	7	Leviticus 4:7	 又 要 把 些 血 抹 在 會 幕 內 、 耶 和 華 面 前 香 壇 的 四 角 上 ． 再 把 公 牛 所 有 的 血 、 倒 在 會 幕 門 口 、 燔 祭 壇 的 腳 那 裡 。 
+Leviticus	4	8	Leviticus 4:8	 要 把 贖 罪 祭 公 牛 所 有 的 脂 油 、 乃 是 蓋 臟 的 脂 油 、 和 臟 上 所 有 的 脂 油 、 
+Leviticus	4	9	Leviticus 4:9	 並 兩 個 腰 子 、 和 腰 子 上 的 脂 油 、 就 是 靠 腰 兩 旁 的 脂 油 、 與 肝 上 的 網 子 、 和 腰 子 、 一 概 取 下 、 
+Leviticus	4	10	Leviticus 4:10	 與 平 安 祭 公 牛 上 所 取 的 一 樣 ． 祭 司 要 把 這 些 燒 在 燔 祭 的 壇 上 。 
+Leviticus	4	11	Leviticus 4:11	 公 牛 的 皮 、 和 所 有 的 肉 、 並 頭 、 腿 、 臟 、 腑 、 糞 、 
+Leviticus	4	12	Leviticus 4:12	 就 是 全 公 牛 、 要 搬 到 營 外 潔 淨 之 地 、 倒 灰 之 所 、 用 火 燒 在 柴 上 。 
+Leviticus	4	13	Leviticus 4:13	 以 色 列 全 會 眾 、 若 行 了 耶 和 華 所 吩 咐 不 可 行 的 甚 麼 事 、 誤 犯 了 罪 、 是 隱 而 未 現 、 會 眾 看 不 出 來 的 ． 
+Leviticus	4	14	Leviticus 4:14	 會 眾 一 知 道 所 犯 的 罪 、 就 要 獻 一 隻 公 牛 犢 為 贖 罪 祭 、 牽 到 會 幕 前 。 
+Leviticus	4	15	Leviticus 4:15	 會 中 的 長 老 、 就 要 在 耶 和 華 面 前 按 手 在 牛 的 頭 上 、 將 牛 在 耶 和 華 面 前 宰 了 。 
+Leviticus	4	16	Leviticus 4:16	 受 膏 的 祭 司 要 取 些 公 牛 的 血 、 帶 到 會 幕 ． 
+Leviticus	4	17	Leviticus 4:17	 把 指 頭 蘸 於 血 中 、 在 耶 和 華 面 前 、 對 著 幔 子 彈 血 七 次 ． 
+Leviticus	4	18	Leviticus 4:18	 又 要 把 些 血 抹 在 會 幕 內 、 耶 和 華 面 前 壇 的 四 角 上 、 再 把 所 有 的 血 、 倒 在 會 幕 門 口 、 燔 祭 壇 的 腳 那 裡 。 
+Leviticus	4	19	Leviticus 4:19	 把 牛 所 有 的 脂 油 都 取 下 、 燒 在 壇 上 、 
+Leviticus	4	20	Leviticus 4:20	 收 拾 這 牛 、 與 那 贖 罪 祭 的 牛 一 樣 ． 祭 司 要 為 他 們 贖 罪 、 他 們 必 蒙 赦 免 。 
+Leviticus	4	21	Leviticus 4:21	 他 要 把 牛 搬 到 營 外 燒 了 、 像 燒 頭 一 個 牛 一 樣 ． 這 是 會 眾 的 贖 罪 祭 。 
+Leviticus	4	22	Leviticus 4:22	 官 長 若 行 了 耶 和 華 他 　 神 所 吩 咐 不 可 行 的 甚 麼 事 、 誤 犯 了 罪 、 
+Leviticus	4	23	Leviticus 4:23	 所 犯 的 罪 自 己 知 道 了 、 就 要 牽 一 隻 沒 有 殘 疾 的 公 山 羊 為 供 物 ． 
+Leviticus	4	24	Leviticus 4:24	 按 手 在 羊 的 頭 上 、 宰 於 耶 和 華 面 前 、 宰 燔 祭 牲 的 地 方 、 這 是 贖 罪 祭 。 
+Leviticus	4	25	Leviticus 4:25	 祭 司 要 用 指 頭 蘸 些 贖 罪 祭 牲 的 血 、 抹 在 燔 祭 壇 的 四 角 上 、 把 血 倒 在 燔 祭 壇 的 腳 那 裡 。 
+Leviticus	4	26	Leviticus 4:26	 所 有 的 脂 油 、 祭 司 都 要 燒 在 壇 上 、 正 如 平 安 祭 的 脂 油 一 樣 ． 至 於 他 的 罪 、 祭 司 要 為 他 贖 了 、 他 必 蒙 赦 免 。 
+Leviticus	4	27	Leviticus 4:27	 民 中 若 有 人 行 了 耶 和 華 所 吩 咐 不 可 行 的 甚 麼 事 、 誤 犯 了 罪 、 
+Leviticus	4	28	Leviticus 4:28	 所 犯 的 罪 自 己 知 道 了 、 就 要 為 所 犯 的 罪 、 牽 一 隻 沒 有 殘 疾 的 母 山 羊 為 供 物 ． 
+Leviticus	4	29	Leviticus 4:29	 按 手 在 贖 罪 祭 牲 的 頭 上 、 在 那 宰 燔 祭 牲 的 地 方 宰 了 。 
+Leviticus	4	30	Leviticus 4:30	 祭 司 要 用 指 頭 蘸 些 羊 的 血 、 抹 在 燔 祭 壇 的 四 角 上 、 所 有 的 血 、 都 要 倒 在 壇 的 腳 那 裡 ． 
+Leviticus	4	31	Leviticus 4:31	 又 要 把 羊 所 有 的 脂 油 都 取 下 、 正 如 取 平 安 祭 牲 的 脂 油 一 樣 ． 祭 司 要 在 壇 上 焚 燒 、 在 耶 和 華 面 前 作 為 馨 香 的 祭 、 為 他 贖 罪 、 他 必 蒙 赦 免 。 
+Leviticus	4	32	Leviticus 4:32	 人 若 牽 一 隻 綿 羊 羔 為 贖 罪 祭 的 供 物 、 必 要 牽 一 隻 沒 有 殘 疾 的 母 羊 ． 
+Leviticus	4	33	Leviticus 4:33	 按 手 在 贖 罪 祭 牲 的 頭 上 、 在 那 宰 燔 祭 牲 的 地 方 宰 了 、 作 贖 罪 祭 。 
+Leviticus	4	34	Leviticus 4:34	 祭 司 要 用 指 頭 蘸 些 贖 罪 祭 牲 的 血 、 抹 在 燔 祭 壇 的 四 角 上 ． 所 有 的 血 、 都 要 倒 在 壇 的 腳 那 裡 ． 
+Leviticus	4	35	Leviticus 4:35	 又 要 把 所 有 的 脂 油 都 取 下 、 正 如 取 平 安 祭 羊 羔 的 脂 油 一 樣 ． 祭 司 要 按 獻 給 耶 和 華 火 祭 的 條 例 、 燒 在 壇 上 ． 至 於 所 犯 的 罪 、 祭 司 要 為 他 贖 了 、 他 必 蒙 赦 免 。 
