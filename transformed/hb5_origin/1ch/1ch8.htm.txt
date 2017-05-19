@@ -1,0 +1,42 @@
+book	chapter	verse	title	body
+1Chronicles	 		1Chronicles  :	
+1Chronicles	8	1	1Chronicles 8:1	 便 雅 憫 的 長 子 比 拉 、 次 子 亞 實 別 、 三 子 亞 哈 拉 、 
+1Chronicles	8	2	1Chronicles 8:2	 四 子 挪 哈 、 五 子 拉 法 。 
+1Chronicles	8	3	1Chronicles 8:3	 比 拉 的 兒 子 是 亞 大 、 基 拉 、 亞 比 忽 、 
+1Chronicles	8	4	1Chronicles 8:4	 亞 比 書 、 乃 幔 、 亞 何 亞 、 
+1Chronicles	8	5	1Chronicles 8:5	 基 拉 、 示 孚 汛 、 戶 蘭 。 
+1Chronicles	8	6	1Chronicles 8:6	 以 忽 的 兒 子 作 迦 巴 居 民 的 族 長 、 被 擄 到 瑪 拿 轄 ． 
+1Chronicles	8	7	1Chronicles 8:7	 以 忽 的 兒 子 乃 幔 、 亞 希 亞 、 基 拉 也 被 擄 去 ． 基 拉 生 烏 撒 、 亞 希 忽 。 
+1Chronicles	8	8	1Chronicles 8:8	 沙 哈 連 休 他 二 妻 戶 伸 和 巴 拉 之 後 、 在 摩 押 地 生 了 兒 子 。 
+1Chronicles	8	9	1Chronicles 8:9	 他 與 妻 賀 得 同 房 、 生 了 約 巴 、 洗 比 雅 、 米 沙 、 瑪 拉 干 、 
+1Chronicles	8	10	1Chronicles 8:10	 耶 烏 斯 、 沙 迦 、 米 瑪 ． 他 這 些 兒 子 都 是 族 長 。 
+1Chronicles	8	11	1Chronicles 8:11	 他 的 妻 戶 伸 給 他 生 的 兒 子 有 亞 比 突 、 以 利 巴 力 。 
+1Chronicles	8	12	1Chronicles 8:12	 以 利 巴 力 的 兒 子 是 希 伯 、 米 珊 、 沙 麥 ． 沙 麥 建 立 阿 挪 、 和 羅 德 二 城 、 與 其 村 莊 。 
+1Chronicles	8	13	1Chronicles 8:13	 又 有 比 利 亞 、 和 示 瑪 、 是 亞 雅 崙 居 民 的 族 長 、 是 驅 逐 迦 特 人 的 。 
+1Chronicles	8	14	1Chronicles 8:14	 亞 希 約 、 沙 煞 、 耶 利 末 、 
+1Chronicles	8	15	1Chronicles 8:15	 西 巴 第 雅 、 亞 拉 得 、 亞 得 、 
+1Chronicles	8	16	1Chronicles 8:16	 米 迦 勒 、 伊 施 巴 、 約 哈 都 是 比 利 亞 的 兒 子 。 
+1Chronicles	8	17	1Chronicles 8:17	 西 巴 第 雅 、 米 書 蘭 、 希 西 基 、 希 伯 、 
+1Chronicles	8	18	1Chronicles 8:18	 伊 施 米 萊 、 伊 斯 利 亞 、 約 巴 、 都 是 以 利 巴 力 的 兒 子 。 
+1Chronicles	8	19	1Chronicles 8:19	 雅 金 、 細 基 利 、 撒 底 、 
+1Chronicles	8	20	1Chronicles 8:20	 以 利 乃 、 洗 勒 太 、 以 列 、 
+1Chronicles	8	21	1Chronicles 8:21	 亞 大 雅 、 比 拉 雅 、 申 拉 、 都 是 示 每 的 兒 子 。 
+1Chronicles	8	22	1Chronicles 8:22	 伊 施 班 、 希 伯 、 以 列 、 
+1Chronicles	8	23	1Chronicles 8:23	 亞 伯 頓 、 細 基 利 、 哈 難 、 
+1Chronicles	8	24	1Chronicles 8:24	 哈 拿 尼 雅 、 以 攔 、 安 陀 提 雅 、 
+1Chronicles	8	25	1Chronicles 8:25	 伊 弗 底 雅 、 毘 努 伊 勒 、 都 是 沙 煞 的 兒 子 。 
+1Chronicles	8	26	1Chronicles 8:26	 珊 示 萊 、 示 哈 利 、 亞 他 利 雅 、 
+1Chronicles	8	27	1Chronicles 8:27	 雅 利 西 、 以 利 亞 、 細 基 利 、 都 是 耶 羅 罕 的 兒 子 。 
+1Chronicles	8	28	1Chronicles 8:28	 這 些 人 都 是 著 名 的 族 長 、 住 在 耶 路 撒 冷 。 
+1Chronicles	8	29	1Chronicles 8:29	 在 基 遍 住 的 有 基 遍 的 父 親 耶 利 ． 他 的 妻 名 叫 瑪 迦 。 
+1Chronicles	8	30	1Chronicles 8:30	 他 長 子 是 亞 伯 頓 、 他 又 生 蘇 珥 、 基 士 、 巴 力 、 拿 答 、 
+1Chronicles	8	31	1Chronicles 8:31	 基 多 、 亞 希 約 、 撒 迦 、 米 基 羅 ． 
+1Chronicles	8	32	1Chronicles 8:32	 米 基 羅 生 示 米 暗 。 這 些 人 和 他 們 的 弟 兄 、 在 耶 路 撒 冷 對 面 居 住 。 
+1Chronicles	8	33	1Chronicles 8:33	 尼 珥 生 基 士 、 基 士 生 掃 羅 、 掃 羅 生 約 拿 單 、 麥 基 舒 亞 、 亞 比 拿 達 、 伊 施 巴 力 。 
+1Chronicles	8	34	1Chronicles 8:34	 約 拿 單 的 兒 子 是 米 力 巴 力 〔 米 力 巴 力 在 撒 母 耳 下 四 章 四 節 作 米 非 波 設 〕 、 米 力 巴 力 生 米 迦 。 
+1Chronicles	8	35	1Chronicles 8:35	 米 迦 的 兒 子 是 毘 敦 、 米 勒 、 他 利 亞 、 亞 哈 斯 、 
+1Chronicles	8	36	1Chronicles 8:36	 亞 哈 斯 生 耶 何 阿 達 、 耶 何 阿 達 生 亞 拉 篾 、 亞 斯 瑪 威 、 心 利 、 心 利 生 摩 撒 、 
+1Chronicles	8	37	1Chronicles 8:37	 摩 撒 生 比 尼 亞 、 比 尼 亞 的 兒 子 是 拉 法 、 拉 法 的 兒 子 是 以 利 亞 薩 、 以 利 亞 薩 的 兒 子 是 亞 悉 。 
+1Chronicles	8	38	1Chronicles 8:38	 亞 悉 有 六 個 兒 子 、 他 們 的 名 字 是 亞 斯 利 干 、 波 基 路 、 以 實 瑪 利 、 示 亞 利 雅 、 俄 巴 底 雅 、 哈 難 。 這 都 是 亞 悉 的 兒 子 。 
+1Chronicles	8	39	1Chronicles 8:39	 亞 悉 兄 弟 以 設 的 長 子 是 烏 蘭 、 次 子 耶 烏 施 、 三 子 是 以 利 法 列 。 
+1Chronicles	8	40	1Chronicles 8:40	 烏 蘭 的 兒 子 都 是 大 能 的 勇 士 、 是 弓 箭 手 、 他 們 有 許 多 的 子 孫 、 共 一 百 五 十 名 、 都 是 便 雅 憫 人 。 

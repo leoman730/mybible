@@ -1,0 +1,31 @@
+book	chapter	verse	title	body
+1Chronicles	 		1Chronicles  :	
+1Chronicles	15	1	1Chronicles 15:1	 大 衛 在 大 衛 城 為 自 己 建 造 宮 殿 ． 又 為 　 神 的 約 櫃 豫 備 地 方 、 支 搭 帳 幕 。 
+1Chronicles	15	2	1Chronicles 15:2	 那 時 大 衛 說 、 除 了 利 未 人 之 外 、 無 人 可 抬 　 神 的 約 櫃 ． 因 為 耶 和 華 揀 選 他 們 抬 　 神 的 約 櫃 、 且 永 遠 事 奉 他 。 
+1Chronicles	15	3	1Chronicles 15:3	 大 衛 招 聚 以 色 列 眾 人 到 耶 路 撒 冷 、 要 將 耶 和 華 的 約 櫃 抬 到 他 所 豫 備 的 地 方 。 
+1Chronicles	15	4	1Chronicles 15:4	 大 衛 又 聚 集 亞 倫 的 子 孫 、 和 利 未 人 ． 
+1Chronicles	15	5	1Chronicles 15:5	 哥 轄 子 孫 中 有 族 長 烏 列 、 和 他 的 弟 兄 一 百 二 十 人 ． 
+1Chronicles	15	6	1Chronicles 15:6	 米 拉 利 子 孫 中 、 有 族 長 亞 帥 雅 、 和 他 的 弟 兄 二 百 二 十 人 ． 
+1Chronicles	15	7	1Chronicles 15:7	 革 順 子 孫 中 、 有 族 長 約 珥 、 和 他 的 弟 兄 一 百 三 十 人 。 
+1Chronicles	15	8	1Chronicles 15:8	 以 利 撒 反 子 孫 中 、 有 族 長 示 瑪 雅 、 和 他 的 弟 兄 二 百 人 ． 
+1Chronicles	15	9	1Chronicles 15:9	 希 伯 崙 子 孫 中 、 有 族 長 以 列 、 和 他 的 弟 兄 八 十 人 ． 
+1Chronicles	15	10	1Chronicles 15:10	 烏 薛 子 孫 中 、 有 族 長 亞 米 拿 達 、 和 他 的 弟 兄 一 百 一 十 二 人 。 
+1Chronicles	15	11	1Chronicles 15:11	 大 衛 將 祭 司 撒 督 和 亞 比 亞 他 、 並 利 未 人 烏 列 、 亞 帥 雅 、 約 珥 、 示 瑪 雅 、 以 列 、 亞 米 拿 達 召 來 、 
+1Chronicles	15	12	1Chronicles 15:12	 對 他 們 說 、 你 們 是 利 未 人 的 族 長 ． 你 們 和 你 們 的 弟 兄 、 應 當 自 潔 、 好 將 耶 和 華 以 色 列 　 神 的 約 櫃 抬 到 我 所 豫 備 的 地 方 。 
+1Chronicles	15	13	1Chronicles 15:13	 因 你 們 先 前 沒 有 抬 這 約 櫃 、 按 定 例 求 問 耶 和 華 我 們 的 　 神 、 所 以 他 刑 罰 〔 原 文 作 闖 殺 〕 我 們 ． 
+1Chronicles	15	14	1Chronicles 15:14	 於 是 祭 司 利 未 人 自 潔 、 好 將 耶 和 華 以 色 列 　 神 的 約 櫃 抬 上 來 。 
+1Chronicles	15	15	1Chronicles 15:15	 利 未 子 孫 就 用 杠 、 肩 抬 　 神 的 約 櫃 、 是 照 耶 和 華 藉 摩 西 所 吩 咐 的 。 
+1Chronicles	15	16	1Chronicles 15:16	 大 衛 吩 咐 利 未 人 的 族 長 、 派 他 們 歌 唱 的 弟 兄 、 用 琴 瑟 和 鈸 作 樂 、 歡 歡 喜 喜 地 大 聲 歌 頌 。 
+1Chronicles	15	17	1Chronicles 15:17	 於 是 利 未 人 派 約 珥 的 兒 子 希 幔 、 和 他 弟 兄 中 比 利 家 的 兒 子 亞 薩 、 並 他 們 族 弟 兄 米 拉 利 子 孫 裡 古 沙 雅 的 兒 子 以 探 。 
+1Chronicles	15	18	1Chronicles 15:18	 其 次 還 有 他 們 的 弟 兄 撒 迦 利 雅 、 便 、 雅 薛 、 示 米 拉 末 、 耶 歇 、 烏 尼 、 以 利 押 、 比 拿 雅 、 瑪 西 雅 、 瑪 他 提 雅 、 以 利 斐 利 戶 、 彌 克 尼 雅 、 並 守 門 的 俄 別 以 東 和 耶 利 。 
+1Chronicles	15	19	1Chronicles 15:19	 這 樣 、 派 歌 唱 的 希 幔 、 亞 薩 、 以 探 、 敲 銅 鈸 、 大 發 響 聲 ． 
+1Chronicles	15	20	1Chronicles 15:20	 派 撒 迦 利 雅 、 雅 薛 、 示 米 拉 末 、 耶 歇 、 烏 尼 、 以 利 押 、 瑪 西 雅 、 比 拿 雅 、 鼓 瑟 、 調 用 女 音 ． 
+1Chronicles	15	21	1Chronicles 15:21	 又 派 瑪 他 提 雅 、 以 利 斐 利 戶 、 彌 克 尼 雅 、 俄 別 以 東 、 耶 利 、 亞 撒 西 雅 、 領 首 彈 琴 、 調 用 第 八 。 
+1Chronicles	15	22	1Chronicles 15:22	 利 未 人 的 族 長 基 拿 尼 雅 、 是 歌 唱 人 的 首 領 ． 又 教 訓 人 歌 唱 、 因 為 他 精 通 此 事 。 
+1Chronicles	15	23	1Chronicles 15:23	 比 利 家 、 以 利 加 拿 、 是 約 櫃 前 守 門 的 。 
+1Chronicles	15	24	1Chronicles 15:24	 祭 司 示 巴 尼 、 約 沙 法 、 拿 坦 業 、 亞 瑪 賽 、 撒 迦 利 雅 、 比 拿 亞 、 以 利 以 謝 、 在 　 神 的 約 櫃 前 吹 號 ． 俄 別 以 東 和 耶 希 亞 也 是 約 櫃 前 守 門 的 。 
+1Chronicles	15	25	1Chronicles 15:25	 於 是 大 衛 和 以 色 列 的 長 老 、 並 千 夫 長 、 都 去 從 俄 別 以 東 的 家 歡 歡 喜 喜 地 將 耶 和 華 的 約 櫃 抬 上 來 。 
+1Chronicles	15	26	1Chronicles 15:26	 　 神 賜 恩 與 抬 耶 和 華 約 櫃 的 利 未 人 、 他 們 就 獻 上 七 隻 公 牛 、 七 隻 公 羊 。 
+1Chronicles	15	27	1Chronicles 15:27	 大 衛 和 抬 約 櫃 的 利 未 人 、 並 歌 唱 人 的 首 領 基 拿 尼 雅 、 以 及 歌 唱 的 人 、 都 穿 著 細 麻 布 的 外 袍 ． 大 衛 另 外 穿 著 細 麻 布 的 以 弗 得 。 
+1Chronicles	15	28	1Chronicles 15:28	 這 樣 、 以 色 列 眾 人 歡 呼 吹 角 、 吹 號 、 敲 鈸 、 鼓 瑟 、 彈 琴 、 大 發 響 聲 、 將 耶 和 華 的 約 櫃 抬 上 來 。 
+1Chronicles	15	29	1Chronicles 15:29	 耶 和 華 的 約 櫃 進 了 大 衛 城 的 時 候 、 掃 羅 的 女 兒 米 甲 從 窗 戶 裡 觀 看 、 見 大 衛 王 踴 躍 跳 舞 、 心 裡 就 輕 視 他 。 
