@@ -1,0 +1,45 @@
+./replace.sh hb5_origin/job/job1.htm Job 
+./replace.sh hb5_origin/job/job2.htm Job 
+./replace.sh hb5_origin/job/job3.htm Job 
+./replace.sh hb5_origin/job/job4.htm Job 
+./replace.sh hb5_origin/job/job5.htm Job 
+./replace.sh hb5_origin/job/job6.htm Job 
+./replace.sh hb5_origin/job/job7.htm Job 
+./replace.sh hb5_origin/job/job8.htm Job 
+./replace.sh hb5_origin/job/job9.htm Job 
+./replace.sh hb5_origin/job/job10.htm Job 
+./replace.sh hb5_origin/job/job11.htm Job 
+./replace.sh hb5_origin/job/job12.htm Job 
+./replace.sh hb5_origin/job/job13.htm Job 
+./replace.sh hb5_origin/job/job14.htm Job 
+./replace.sh hb5_origin/job/job15.htm Job 
+./replace.sh hb5_origin/job/job16.htm Job 
+./replace.sh hb5_origin/job/job17.htm Job 
+./replace.sh hb5_origin/job/job18.htm Job 
+./replace.sh hb5_origin/job/job19.htm Job 
+./replace.sh hb5_origin/job/job20.htm Job 
+./replace.sh hb5_origin/job/job21.htm Job 
+./replace.sh hb5_origin/job/job22.htm Job 
+./replace.sh hb5_origin/job/job23.htm Job 
+./replace.sh hb5_origin/job/job24.htm Job 
+./replace.sh hb5_origin/job/job25.htm Job 
+./replace.sh hb5_origin/job/job26.htm Job 
+./replace.sh hb5_origin/job/job27.htm Job 
+./replace.sh hb5_origin/job/job28.htm Job 
+./replace.sh hb5_origin/job/job29.htm Job 
+./replace.sh hb5_origin/job/job30.htm Job 
+./replace.sh hb5_origin/job/job31.htm Job 
+./replace.sh hb5_origin/job/job32.htm Job 
+./replace.sh hb5_origin/job/job33.htm Job 
+./replace.sh hb5_origin/job/job34.htm Job 
+./replace.sh hb5_origin/job/job35.htm Job 
+./replace.sh hb5_origin/job/job36.htm Job 
+./replace.sh hb5_origin/job/job37.htm Job 
+./replace.sh hb5_origin/job/job38.htm Job 
+./replace.sh hb5_origin/job/job39.htm Job 
+./replace.sh hb5_origin/job/job40.htm Job 
+./replace.sh hb5_origin/job/job41.htm Job 
+./replace.sh hb5_origin/job/job42.htm Job 
+
+cat transformed/hb5_origin/1ki/* > 1ki.txt
+cat transformed/hb5_origin/job/* > job.txt
