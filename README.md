@@ -1,5 +1,8 @@
 # My Bible
 
+http://bible.elab.io
+
+
 ## Usage
 ```bash
 ./transform.sh hb5_origin/exo Exodus
