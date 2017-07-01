@@ -51,7 +51,7 @@ function process () {
 
   mv $destination'.tmp' $destination
   # cat $destination
-
+  
   # Join all the newline together
   # Reference: http://www.thegeekstuff.com/2012/12/linux-tr-command/
   cat $destination | tr -s '\n' ' ' > $destination'.tmp'
@@ -65,10 +65,10 @@ function process () {
   # cat $destination
 
   # Reference: https://jaywcjlove.github.io/linux-command/c/awk.html
-  awk -v BOOK=$book 'BEGIN{ FS=":"} { print BOOK "\t" $1 "\t"$2 "\t"BOOK " "$1":"$2"\t"$3 }' $destination > $destination'.tmp'
+  awk -v BOOK="$book" 'BEGIN{ FS=":"} { print BOOK "\t" $1 "\t"$2 "\t"BOOK " "$1":"$2"\t"$3 }' $destination > $destination'.tmp'
   mv $destination'.tmp' $destination
 
-  # cat $destination
+  #  cat $destination
 
   # Print anyline that starts with number or in another word, remove empty line
   # Reference: http://www.unix.com/shell-programming-and-scripting/151050-deleting-lines-not-starting-numbers-sed.html
@@ -81,7 +81,7 @@ function process () {
 
   cat $destination
 
-  cp $destination ~/Desktop/test.csv
+  # cp $destination ~/Desktop/test.csv
   # grep --color -h '^[^<]' gen1.html |
   # sed -e 's/<a href="#top">//' \
   #     -e 's/Return to top of page<\/font>//' \
@@ -114,7 +114,6 @@ fi
 DIR=$1
 BOOK=$2
 
-
 # echo $DIR
 # DIR=hb5_origin/psm/*
 
@@ -139,7 +138,7 @@ do
     if [[ ! $batch_process =~ ^[Yy]$ ]]; then
       read -e -p "${green}Process next file? (Y/N): ${normal}" answer
     
-      process $f $BOOK  
+      process $f "$BOOK" # add double quote to deal with long name that has multiple words
       
       # prompt user to transform next file
       if [[ ! $answer =~ ^[Yy]$ ]]; then # =~  is regular expression match as '='
@@ -147,7 +146,7 @@ do
       fi
       
     else
-      process $f $BOOK
+      process $f "$BOOK" # add double quote to deal with name with multiple words
     fi
     
     
