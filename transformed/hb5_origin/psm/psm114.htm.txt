@@ -1,0 +1,9 @@
+book	chapter	verse	title	body
+Psalms	114	1	Psalms 114:1	 以 色 列 出 了 埃 及 、 雅 各 家 離 開 說 異 言 之 民 ． 
+Psalms	114	2	Psalms 114:2	 那 時 猶 大 為 主 的 聖 所 、 以 色 列 為 他 所 治 理 的 國 度 。 
+Psalms	114	3	Psalms 114:3	 滄 海 看 見 就 奔 逃 、 約 但 河 也 倒 流 。 
+Psalms	114	4	Psalms 114:4	 大 山 踴 躍 如 公 羊 、 小 山 跳 舞 如 羊 羔 。 
+Psalms	114	5	Psalms 114:5	 滄 海 阿 、 你 為 何 奔 逃 ． 約 但 哪 你 為 何 倒 流 ． 
+Psalms	114	6	Psalms 114:6	 大 山 哪 、 你 為 何 踴 躍 如 公 羊 ． 小 山 哪 、 你 為 何 跳 舞 如 羊 羔 。 
+Psalms	114	7	Psalms 114:7	 大 地 阿 、 你 因 見 主 的 面 、 就 是 雅 各 　 神 的 面 、 便 要 震 動 。 
+Psalms	114	8	Psalms 114:8	 他 叫 磐 石 變 為 水 池 、 叫 堅 石 變 為 泉 源 。 

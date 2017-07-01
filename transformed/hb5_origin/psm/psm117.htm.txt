@@ -1,0 +1,3 @@
+book	chapter	verse	title	body
+Psalms	117	1	Psalms 117:1	 萬 國 阿 、 你 們 都 當 讚 美 耶 和 華 ． 萬 民 哪 、 你 們 都 當 頌 讚 他 。 
+Psalms	117	2	Psalms 117:2	 因 為 他 向 我 們 大 施 慈 愛 ． 耶 和 華 的 誠 實 、 存 到 永 遠 。 你 們 要 讚 美 耶 和 華 。 

@@ -1,0 +1,7 @@
+book	chapter	verse	title	body
+Psalms	150	1	Psalms 150:1	 你 們 要 讚 美 耶 和 華 、 在 　 神 的 聖 所 讚 美 他 、 在 他 顯 能 力 的 穹 蒼 讚 美 他 。 
+Psalms	150	2	Psalms 150:2	 要 因 他 大 能 的 作 為 讚 美 他 、 按 著 他 極 美 的 大 德 讚 美 他 。 
+Psalms	150	3	Psalms 150:3	 要 用 角 聲 讚 美 他 、 鼓 瑟 彈 琴 讚 美 他 ． 
+Psalms	150	4	Psalms 150:4	 擊 鼓 跳 舞 讚 美 他 、 用 絲 絃 的 樂 器 、 和 簫 的 聲 音 讚 美 他 ． 
+Psalms	150	5	Psalms 150:5	 用 大 響 的 鈸 讚 美 他 、 用 高 聲 的 鈸 讚 美 他 。 
+Psalms	150	6	Psalms 150:6	 凡 有 氣 息 的 、 都 要 讚 美 耶 和 華 。 你 們 要 讚 美 耶 和 華 。 

@@ -1,0 +1,9 @@
+book	chapter	verse	title	body
+Psalms	129	1	Psalms 129:1	 〔 上 行 之 詩 。 〕 以 色 列 當 說 、 從 我 幼 年 以 來 、 敵 人 屢 次 苦 害 我 、 
+Psalms	129	2	Psalms 129:2	 從 我 幼 年 以 來 、 敵 人 屢 次 苦 害 我 、 卻 沒 有 勝 了 我 。 
+Psalms	129	3	Psalms 129:3	 如 同 扶 犁 的 、 在 我 背 上 扶 犁 而 耕 ． 耕 的 犁 溝 甚 長 。 
+Psalms	129	4	Psalms 129:4	 耶 和 華 是 公 義 的 ． 他 砍 斷 了 惡 人 的 繩 索 。 
+Psalms	129	5	Psalms 129:5	 願 恨 惡 錫 安 的 、 都 蒙 羞 退 後 。 
+Psalms	129	6	Psalms 129:6	 願 他 們 像 房 頂 上 的 草 、 未 長 成 而 枯 乾 ． 
+Psalms	129	7	Psalms 129:7	 收 割 的 不 彀 一 把 、 捆 禾 的 也 不 滿 懷 ． 
+Psalms	129	8	Psalms 129:8	 過 路 的 也 不 說 、 願 耶 和 華 所 賜 的 福 、 歸 與 你 們 ． 我 們 奉 耶 和 華 的 名 、 給 你 們 祝 福 。 

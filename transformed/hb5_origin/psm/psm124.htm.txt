@@ -1,0 +1,9 @@
+book	chapter	verse	title	body
+Psalms	124	1	Psalms 124:1	 〔 大 衛 上 行 之 詩 。 〕 以 色 列 人 要 說 、 若 不 是 耶 和 華 幫 助 我 們 、 
+Psalms	124	2	Psalms 124:2	 若 不 是 耶 和 華 幫 助 我 們 、 當 人 起 來 攻 擊 我 們 、 
+Psalms	124	3	Psalms 124:3	 向 我 們 發 怒 的 時 候 、 就 把 我 們 活 活 的 吞 了 ． 
+Psalms	124	4	Psalms 124:4	 那 時 、 波 濤 必 漫 過 我 們 、 河 水 必 淹 沒 我 們 ． 
+Psalms	124	5	Psalms 124:5	 狂 傲 的 水 必 淹 沒 我 們 。 
+Psalms	124	6	Psalms 124:6	 耶 和 華 是 應 當 稱 頌 的 ． 他 沒 有 把 我 們 當 野 食 交 給 他 們 吞 喫 。 〔 原 文 作 牙 齒 〕 
+Psalms	124	7	Psalms 124:7	 我 們 好 像 雀 鳥 從 捕 鳥 人 的 網 羅 裡 逃 脫 ． 網 羅 破 裂 、 我 們 逃 脫 了 。 
+Psalms	124	8	Psalms 124:8	 我 們 得 幫 助 、 是 在 乎 倚 靠 造 天 地 之 耶 和 華 的 名 。 

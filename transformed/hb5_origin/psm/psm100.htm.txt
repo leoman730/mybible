@@ -1,0 +1,6 @@
+book	chapter	verse	title	body
+Psalms	100	1	Psalms 100:1	 〔 稱 謝 詩 。 〕 普 天 下 當 向 耶 和 華 歡 呼 。 
+Psalms	100	2	Psalms 100:2	 你 們 當 樂 意 事 奉 耶 和 華 ． 當 來 向 他 歌 唱 。 
+Psalms	100	3	Psalms 100:3	 你 們 當 曉 得 耶 和 華 是 　 神 ． 我 們 是 他 造 的 、 也 是 屬 他 的 ． 我 們 是 他 的 民 、 也 是 他 草 場 的 羊 。 
+Psalms	100	4	Psalms 100:4	 當 稱 謝 進 入 他 的 門 、 當 讚 美 進 入 他 的 院 ． 當 感 謝 他 、 稱 頌 他 的 名 。 
+Psalms	100	5	Psalms 100:5	 因 為 耶 和 華 本 為 善 ． 他 的 慈 愛 、 存 到 永 遠 、 他 的 信 實 、 直 到 萬 代 。 

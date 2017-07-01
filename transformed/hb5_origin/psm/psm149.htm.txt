@@ -1,0 +1,10 @@
+book	chapter	verse	title	body
+Psalms	149	1	Psalms 149:1	 你 們 要 讚 美 耶 和 華 、 向 耶 和 華 唱 新 歌 、 在 聖 民 的 會 中 讚 美 他 。 
+Psalms	149	2	Psalms 149:2	 願 以 色 列 因 造 他 的 主 歡 喜 ． 願 錫 安 的 民 、 因 他 們 的 王 快 樂 。 
+Psalms	149	3	Psalms 149:3	 願 他 們 跳 舞 讚 美 他 的 名 、 擊 鼓 彈 琴 歌 頌 他 。 
+Psalms	149	4	Psalms 149:4	 因 為 耶 和 華 喜 愛 他 的 百 姓 ． 他 要 用 救 恩 當 作 謙 卑 人 的 妝 飾 。 
+Psalms	149	5	Psalms 149:5	 願 聖 民 因 所 得 的 榮 耀 高 興 ． 願 他 們 在 床 上 歡 呼 。 
+Psalms	149	6	Psalms 149:6	 願 他 們 口 中 稱 讚 　 神 為 高 、 手 裡 有 兩 刃 的 刀 ． 
+Psalms	149	7	Psalms 149:7	 為 要 報 復 列 邦 、 刑 罰 萬 民 ． 
+Psalms	149	8	Psalms 149:8	 要 用 鍊 子 捆 他 們 的 君 王 、 用 鐵 鐐 鎖 他 們 的 大 臣 ． 
+Psalms	149	9	Psalms 149:9	 要 在 他 們 身 上 施 行 所 記 錄 的 審 判 ． 他 的 聖 民 都 有 這 榮 耀 。 你 們 要 讚 美 耶 和 華 。 
