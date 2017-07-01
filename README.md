@@ -1,19 +1,19 @@
-# mybible
+# My Bible
 
-## Update: New script to transform a book.
+## Usage
 ```bash
 ./transform.sh hb5_origin/exo Exodus
 ```
 
-
-Transform individual chapter.  
+### Transform a single chapter.  
+```bash
 ./replace.sh hb5_origin/exo/exo32.htm Exodus
+```
 
-
-Combine all chapters into one.  
-Note: May need to fix ordering.  
-cat transformed/hb5_origin/exo/* > exo.txt
-
+### Combine all chapters into one.    
+```bash
+gls -v transformed/hb5_origin/exo/* | xargs cat  > exo.txt
+```
 
 ## Dependency
 GNU coreutils
