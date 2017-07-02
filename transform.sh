@@ -171,6 +171,8 @@ if [[ ! $book = '' ]]; then
   
   # Add a header  
   echo -e "book\tchapter\tverse\ttitle\tbody\n$(cat $book.txt)" > $book.txt
+  
+  mv $book.txt transformed/build/
 fi
 
 
