@@ -1,0 +1,21 @@
+book	chapter	verse	title	body
+Ecclesiastes	10	1	Ecclesiastes 10:1	 死  蠅 、 使 作 香 的 膏 油 發 出 臭 氣 ． 這 樣 、 一 點 愚 昧 、 也 能 敗 壞 智 慧 和 尊 榮 。 
+Ecclesiastes	10	2	Ecclesiastes 10:2	 智 慧 人 的 心 居 右 ． 愚 昧 人 的 心 居 左 。 
+Ecclesiastes	10	3	Ecclesiastes 10:3	 並 且 愚 昧 人 行 路 、 顯 出 無 知 ． 對 眾 人 說 、 他 是 愚 昧 人 。 
+Ecclesiastes	10	4	Ecclesiastes 10:4	 掌 權 者 的 心 、 若 向 你 發 怒 、 不 要 離 開 你 的 本 位 、 因 為 柔 和 能 免 大 過 。 
+Ecclesiastes	10	5	Ecclesiastes 10:5	 我 見 日 光 之 下 、 有 一 件 禍 患 、 似 乎 出 於 掌 權 的 錯 誤 、 
+Ecclesiastes	10	6	Ecclesiastes 10:6	 就 是 愚 昧 人 立 在 高 位 ． 富 足 人 坐 在 低 位 。 
+Ecclesiastes	10	7	Ecclesiastes 10:7	 我 見 過 僕 人 騎 馬 、 王 子 像 僕 人 在 地 上 步 行 。 
+Ecclesiastes	10	8	Ecclesiastes 10:8	 挖 陷 坑 的 、 自 己 必 掉 在 其 中 ． 拆 牆 垣 的 、 必 為 蛇 所 咬 。 
+Ecclesiastes	10	9	Ecclesiastes 10:9	 鑿 開 〔 或 作 挪 移 〕 石 頭 的 、 必 受 損 傷 ． 劈 開 木 頭 的 、 必 遭 危 險 。 
+Ecclesiastes	10	10	Ecclesiastes 10:10	 鐵 器 鈍 了 、 若 不 將 刃 磨 快 、 就 必 多 費 氣 力 ． 但 得 智 慧 指 教 、 便 有 益 處 。 
+Ecclesiastes	10	11	Ecclesiastes 10:11	 未 行 法 術 以 先 、 蛇 若 咬 人 、 後 行 法 術 也 是 無 益 。 
+Ecclesiastes	10	12	Ecclesiastes 10:12	 智 慧 人 的 口 、 說 出 恩 言 ． 愚 昧 人 的 嘴 、 吞 滅 自 己 。 
+Ecclesiastes	10	13	Ecclesiastes 10:13	 他 口 中 的 言 語 、 起 頭 是 愚 昧 ． 他 話 的 末 尾 、 是 奸 惡 的 狂 妄 。 
+Ecclesiastes	10	14	Ecclesiastes 10:14	 愚 昧 人 多 有 言 語 、 人 卻 不 知 將 來 有 甚 麼 事 ． 他 身 後 的 事 、 誰 能 告 訴 他 呢 。 
+Ecclesiastes	10	15	Ecclesiastes 10:15	 凡 愚 昧 人 、 他 的 勞 碌 使 自 己 困 乏 ． 因 為 連 進 城 的 路 他 也 不 知 道 。 
+Ecclesiastes	10	16	Ecclesiastes 10:16	 邦 國 阿 、 你 的 王 若 是 孩 童 、 你 的 群 臣 早 晨 宴 樂 、 你 就 有 禍 了 。 
+Ecclesiastes	10	17	Ecclesiastes 10:17	 邦 國 阿 、 你 的 王 若 是 貴 冑 之 子 、 你 的 群 臣 按 時 喫 喝 、 為 要 補 力 、 不 為 酒 醉 、 你 就 有 福 了 。 
+Ecclesiastes	10	18	Ecclesiastes 10:18	 因 人 懶 惰 、 房 頂 塌 下 ． 因 人 手 懶 、 房 屋 滴 漏 。 
+Ecclesiastes	10	19	Ecclesiastes 10:19	 設 擺 筵 席 、 是 為 喜 笑 ． 酒 能 使 人 快 活 、 錢 能 叫 萬 事 應 心 。 
+Ecclesiastes	10	20	Ecclesiastes 10:20	 你 不 可 咒 詛 君 王 、 也 不 可 心 懷 此 念 ． 在 你 臥 房 也 不 可 咒 詛 富 戶 ． 因 為 空 中 的 鳥 、 必 傳 揚 這 聲 音 ． 有 翅 膀 的 、 也 必 述 說 這 事 。 

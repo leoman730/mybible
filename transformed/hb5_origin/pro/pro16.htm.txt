@@ -1,0 +1,34 @@
+book	chapter	verse	title	body
+Proverbs	16	1	Proverbs 16:1	 心 中 的 謀 算 在 乎 人 ． 舌 頭 的 應 對 、 由 於 耶 和 華 。 
+Proverbs	16	2	Proverbs 16:2	 人 一 切 所 行 的 、 在 自 己 眼 中 看 為 清 潔 ． 惟 有 耶 和 華 衡 量 人 心 。 
+Proverbs	16	3	Proverbs 16:3	 你 所 作 的 、 要 交 託 耶 和 華 、 你 所 謀 的 、 就 必 成 立 。 
+Proverbs	16	4	Proverbs 16:4	 耶 和 華 所 造 的 、 各 適 其 用 ． 就 是 惡 人 、 也 為 禍 患 的 日 子 所 造 。 
+Proverbs	16	5	Proverbs 16:5	 凡 心 裡 驕 傲 的 、 為 耶 和 華 所 憎 惡 ． 雖 然 連 手 、 他 必 不 免 受 罰 。 
+Proverbs	16	6	Proverbs 16:6	 因 憐 憫 誠 實 、 罪 孽 得 贖 ． 敬 畏 耶 和 華 的 、 遠 離 惡 事 。 
+Proverbs	16	7	Proverbs 16:7	 人 所 行 的 若 蒙 耶 和 華 喜 悅 、 耶 和 華 也 使 他 的 仇 敵 與 他 和 好 。 
+Proverbs	16	8	Proverbs 16:8	 多 有 財 利 、 行 事 不 義 、 不 如 少 有 財 利 、 行 事 公 義 。 
+Proverbs	16	9	Proverbs 16:9	 人 心 籌 算 自 己 的 道 路 ． 惟 耶 和 華 指 引 他 的 腳 步 。 
+Proverbs	16	10	Proverbs 16:10	 王 的 嘴 中 有 神 語 ． 審 判 之 時 、 他 的 口 、 必 不 差 錯 。 
+Proverbs	16	11	Proverbs 16:11	 公 道 的 天 平 和 秤 、 都 屬 耶 和 華 ． 囊 中 一 切 法 碼 、 都 為 他 所 定 。 
+Proverbs	16	12	Proverbs 16:12	 作 惡 為 王 所 憎 惡 ． 因 國 位 是 靠 公 義 堅 立 。 
+Proverbs	16	13	Proverbs 16:13	 公 義 的 嘴 、 為 王 所 喜 悅 ． 說 正 直 話 的 、 為 王 所 喜 愛 。 
+Proverbs	16	14	Proverbs 16:14	 王 的 震 怒 、 如 殺 人 的 使 者 ． 但 智 慧 人 能 止 息 王 怒 。 
+Proverbs	16	15	Proverbs 16:15	 王 的 臉 光 、 使 人 有 生 命 ． 王 的 恩 典 、 好 像 春 雲 時 雨 。 
+Proverbs	16	16	Proverbs 16:16	 得 智 慧 勝 似 得 金 子 ． 選 聰 明 強 如 選 銀 子 。 
+Proverbs	16	17	Proverbs 16:17	 正 直 人 的 道 、 是 遠 離 惡 事 ． 謹 守 己 路 的 、 是 保 全 性 命 。 
+Proverbs	16	18	Proverbs 16:18	 驕 傲 在 敗 壞 以 先 ． 狂 心 在 跌 倒 之 前 。 
+Proverbs	16	19	Proverbs 16:19	 心 裡 謙 卑 與 窮 乏 人 來 往 、 強 如 將 擄 物 與 驕 傲 人 同 分 。 
+Proverbs	16	20	Proverbs 16:20	 謹 守 訓 言 的 、 必 得 好 處 ． 倚 靠 耶 和 華 的 、 便 為 有 福 。 
+Proverbs	16	21	Proverbs 16:21	 心 中 有 智 慧 、 必 稱 為 通 達 人 ． 嘴 中 的 甜 言 、 加 增 人 的 學 問 。 
+Proverbs	16	22	Proverbs 16:22	 人 有 智 慧 就 有 生 命 的 泉 源 ． 愚 昧 人 必 被 愚 昧 懲 治 。 
+Proverbs	16	23	Proverbs 16:23	 智 慧 人 的 心 、 教 訓 他 的 口 、 又 使 他 的 嘴 、 增 長 學 問 。 
+Proverbs	16	24	Proverbs 16:24	 良 言 如 同 蜂 房 、 使 心 覺 甘 甜 、 使 骨 得 醫 治 。 
+Proverbs	16	25	Proverbs 16:25	 有 一 條 路 、 人 以 為 正 、 至 終 成 為 死 亡 之 路 。 
+Proverbs	16	26	Proverbs 16:26	 勞 力 人 的 胃 口 、 使 他 勞 力 、 因 為 他 的 口 腹 催 逼 他 。 
+Proverbs	16	27	Proverbs 16:27	 匪 徒 圖 謀 奸 惡 、 嘴 上 彷 彿 有 燒 焦 的 火 。 
+Proverbs	16	28	Proverbs 16:28	 乖 僻 人 播 散 分 爭 ． 傳 舌 的 離 間 密 友 。 
+Proverbs	16	29	Proverbs 16:29	 強 暴 人 誘 惑 鄰 舍 、 領 他 走 不 善 之 道 。 
+Proverbs	16	30	Proverbs 16:30	 眼 目 緊 合 的 、 圖 謀 乖 僻 、 嘴 唇 緊 閉 的 、 成 就 邪 惡 。 
+Proverbs	16	31	Proverbs 16:31	 白 髮 是 榮 耀 的 冠 冕 ． 在 公 義 的 道 上 、 必 能 得 著 。 
+Proverbs	16	32	Proverbs 16:32	 不 輕 易 發 怒 的 、 勝 過 勇 士 ． 治 服 己 心 的 、 強 如 取 城 。 
+Proverbs	16	33	Proverbs 16:33	 籤 放 在 懷 裡 ． 定 事 由 耶 和 華 。 

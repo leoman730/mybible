@@ -1,0 +1,34 @@
+book	chapter	verse	title	body
+Proverbs	15	1	Proverbs 15:1	 回 答 柔 和 、 使 怒 消 退 ． 言 語 暴 戾 、 觸 動 怒 氣 。 
+Proverbs	15	2	Proverbs 15:2	 智 慧 人 的 舌 、 善 發 知 識 ． 愚 昧 人 的 口 、 吐 出 愚 昧 。 
+Proverbs	15	3	Proverbs 15:3	 耶 和 華 的 眼 目 、 無 處 不 在 ． 惡 人 善 人 、 他 都 鑒 察 。 
+Proverbs	15	4	Proverbs 15:4	 溫 良 的 舌 、 是 生 命 樹 ． 乖 謬 的 嘴 、 使 人 心 碎 。 
+Proverbs	15	5	Proverbs 15:5	 愚 妄 人 藐 視 父 親 的 管 教 ． 領 受 責 備 的 、 得 著 見 識 。 
+Proverbs	15	6	Proverbs 15:6	 義 人 家 中 、 多 有 財 寶 ． 惡 人 得 利 、 反 受 擾 害 。 
+Proverbs	15	7	Proverbs 15:7	 智 慧 人 的 嘴 、 播 揚 知 識 ． 愚 昧 人 的 心 、 並 不 如 此 。 
+Proverbs	15	8	Proverbs 15:8	 惡 人 獻 祭 、 為 耶 和 華 所 憎 惡 ． 正 直 人 祈 禱 、 為 他 所 喜 悅 。 
+Proverbs	15	9	Proverbs 15:9	 惡 人 的 道 路 、 為 耶 和 華 所 憎 惡 ． 追 求 公 義 的 、 為 他 所 喜 愛 。 
+Proverbs	15	10	Proverbs 15:10	 捨 棄 正 路 的 、 必 受 嚴 刑 ． 恨 惡 責 備 的 、 必 致 死 亡 。 
+Proverbs	15	11	Proverbs 15:11	 陰 間 和 滅 亡 、 尚 在 耶 和 華 眼 前 、 何 況 世 人 的 心 呢 。 
+Proverbs	15	12	Proverbs 15:12	 褻 慢 人 不 愛 受 責 備 ． 他 也 不 就 近 智 慧 人 。 
+Proverbs	15	13	Proverbs 15:13	 心 中 喜 樂 、 面 帶 笑 容 ． 心 裡 憂 愁 、 靈 被 損 傷 。 
+Proverbs	15	14	Proverbs 15:14	 聰 明 人 心 求 知 識 ． 愚 昧 人 口 喫 愚 昧 。 
+Proverbs	15	15	Proverbs 15:15	 困 苦 人 的 日 子 、 都 是 愁 苦 ． 心 中 歡 暢 的 、 常 享 豐 筵 。 
+Proverbs	15	16	Proverbs 15:16	 少 有 財 寶 、 敬 畏 耶 和 華 、 強 如 多 有 財 寶 、 煩 亂 不 安 。 
+Proverbs	15	17	Proverbs 15:17	 喫 素 菜 、 彼 此 相 愛 、 強 如 喫 肥 牛 、 彼 此 相 恨 。 
+Proverbs	15	18	Proverbs 15:18	 暴 怒 的 人 、 挑 啟 爭 端 ． 忍 怒 的 人 、 止 息 分 爭 。 
+Proverbs	15	19	Proverbs 15:19	 懶 惰 人 的 道 、 像 荊 棘 的 籬 笆 ． 正 直 人 的 路 、 是 平 坦 的 大 道 。 
+Proverbs	15	20	Proverbs 15:20	 智 慧 子 使 父 親 喜 樂 ． 愚 昧 人 藐 視 母 親 。 
+Proverbs	15	21	Proverbs 15:21	 無 知 的 人 、 以 愚 妄 為 樂 ． 聰 明 的 人 、 按 正 直 而 行 。 
+Proverbs	15	22	Proverbs 15:22	 不 先 商 議 、 所 謀 無 效 ． 謀 士 眾 多 、 所 謀 乃 成 。 
+Proverbs	15	23	Proverbs 15:23	 口 善 應 對 、 自 覺 喜 樂 ． 話 合 其 時 、 何 等 美 好 。 
+Proverbs	15	24	Proverbs 15:24	 智 慧 人 從 生 命 的 道 上 升 、 使 他 遠 離 在 下 的 陰 間 。 
+Proverbs	15	25	Proverbs 15:25	 耶 和 華 必 拆 毀 驕 傲 人 的 家 ． 卻 要 立 定 寡 婦 的 地 界 。 
+Proverbs	15	26	Proverbs 15:26	 惡 謀 為 耶 和 華 所 憎 惡 ． 良 言 乃 為 純 淨 。 
+Proverbs	15	27	Proverbs 15:27	 貪 戀 財 利 的 、 擾 害 己 家 ． 恨 惡 賄 賂 的 、 必 得 存 活 。 
+Proverbs	15	28	Proverbs 15:28	 義 人 的 心 、 思 量 如 何 回 答 ． 惡 人 的 口 、 吐 出 惡 言 。 
+Proverbs	15	29	Proverbs 15:29	 耶 和 華 遠 離 惡 人 ． 卻 聽 義 人 的 禱 告 。 
+Proverbs	15	30	Proverbs 15:30	 眼 有 光 使 心 喜 樂 ． 好 信 息 使 骨 滋 潤 。 
+Proverbs	15	31	Proverbs 15:31	 聽 從 生 命 責 備 的 、 必 常 在 智 慧 人 中 。 
+Proverbs	15	32	Proverbs 15:32	 棄 絕 管 教 的 、 輕 看 自 己 的 生 命 ． 聽 從 責 備 的 、 卻 得 智 慧 。 
+Proverbs	15	33	Proverbs 15:33	 敬 畏 耶 和 華 、 是 智 慧 的 訓 誨 ． 尊 榮 以 前 、 必 有 謙 卑 。 

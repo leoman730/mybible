@@ -1,0 +1,30 @@
+book	chapter	verse	title	body
+Proverbs	22	1	Proverbs 22:1	 美 名 勝 過 大 財 ． 恩 寵 強 如 金 銀 。 
+Proverbs	22	2	Proverbs 22:2	 富 戶 窮 人 、 在 世 相 遇 、 都 為 耶 和 華 所 造 。 
+Proverbs	22	3	Proverbs 22:3	 通 達 人 見 禍 藏 躲 ． 愚 蒙 人 前 往 受 害 。 
+Proverbs	22	4	Proverbs 22:4	 敬 畏 耶 和 華 心 存 謙 卑 、 就 得 富 有 、 尊 榮 、 生 命 為 賞 賜 。 
+Proverbs	22	5	Proverbs 22:5	 乖 僻 人 的 路 上 、 有 荊 棘 和 網 羅 ． 保 守 自 己 生 命 的 、 必 要 遠 離 。 
+Proverbs	22	6	Proverbs 22:6	 教 養 孩 童 、 使 他 走 當 行 的 道 、 就 是 到 老 他 也 不 偏 離 。 
+Proverbs	22	7	Proverbs 22:7	 富 戶 管 轄 窮 人 ． 欠 債 的 是 債 主 的 僕 人 。 
+Proverbs	22	8	Proverbs 22:8	 撒 罪 孽 的 、 必 收 災 禍 ． 他 逞 怒 的 杖 、 也 必 廢 掉 。 
+Proverbs	22	9	Proverbs 22:9	 眼 目 慈 善 的 、 就 必 蒙 福 ． 因 他 將 食 物 分 給 窮 人 。 
+Proverbs	22	10	Proverbs 22:10	 趕 出 褻 慢 人 、 爭 端 就 消 除 、 分 爭 和 羞 辱 、 也 必 止 息 。 
+Proverbs	22	11	Proverbs 22:11	 喜 愛 清 心 的 人 、 因 他 嘴 上 的 恩 言 、 王 必 與 他 為 友 。 
+Proverbs	22	12	Proverbs 22:12	 耶 和 華 的 眼 目 、 眷 顧 聰 明 人 ． 卻 傾 敗 奸 詐 人 的 言 語 。 
+Proverbs	22	13	Proverbs 22:13	 懶 惰 人 說 、 外 頭 有 獅 子 、 我 在 街 上 、 就 必 被 殺 。 
+Proverbs	22	14	Proverbs 22:14	 淫 婦 的 口 為 深 坑 、 耶 和 華 所 憎 惡 的 、 必 陷 在 其 中 。 
+Proverbs	22	15	Proverbs 22:15	 愚 蒙 迷 住 孩 童 的 心 、 用 管 教 的 杖 可 以 遠 遠 趕 除 。 
+Proverbs	22	16	Proverbs 22:16	 欺 壓 貧 窮 為 要 利 己 的 、 並 送 禮 與 富 戶 的 、 都 必 缺 乏 。 
+Proverbs	22	17	Proverbs 22:17	 你 須 側 耳 聽 受 智 慧 人 的 言 語 、 留 心 領 會 我 的 知 識 ． 
+Proverbs	22	18	Proverbs 22:18	 你 若 心 中 存 記 、 嘴 上 咬 定 、 這 便 為 美 。 
+Proverbs	22	19	Proverbs 22:19	 我 今 日 以 此 特 別 指 教 你 、 為 要 使 你 倚 靠 耶 和 華 。 
+Proverbs	22	20	Proverbs 22:20	 謀 略 和 知 識 的 美 事 、 我 豈 沒 有 寫 給 你 麼 ． 
+Proverbs	22	21	Proverbs 22:21	 要 使 你 知 道 真 言 的 實 理 、 你 好 將 真 言 回 覆 那 打 發 你 來 的 人 。 
+Proverbs	22	22	Proverbs 22:22	 貧 窮 人 、 你 不 可 因 他 貧 窮 就 搶 奪 他 的 物 ． 也 不 可 在 城 門 口 欺 壓 困 苦 人 ． 
+Proverbs	22	23	Proverbs 22:23	 因 耶 和 華 必 為 他 辨 屈 ． 搶 奪 他 的 、 耶 和 華 必 奪 取 那 人 的 命 。 
+Proverbs	22	24	Proverbs 22:24	 好 生 氣 的 人 、 不 可 與 他 結 交 ． 暴 怒 的 人 、 不 可 與 他 來 往 ． 
+Proverbs	22	25	Proverbs 22:25	 恐 怕 你 效 法 他 的 行 為 、 自 己 就 陷 在 網 羅 裡 。 
+Proverbs	22	26	Proverbs 22:26	 不 要 與 人 擊 掌 、 不 要 為 欠 債 的 作 保 。 
+Proverbs	22	27	Proverbs 22:27	 你 若 沒 有 甚 麼 償 還 、 何 必 使 人 奪 去 你 睡 臥 的 床 呢 。 
+Proverbs	22	28	Proverbs 22:28	 你 先 祖 所 立 的 地 界 、 你 不 可 挪 移 。 
+Proverbs	22	29	Proverbs 22:29	 你 看 見 辦 事 殷 勤 的 人 麼 、 他 必 站 在 君 王 面 前 ． 必 不 站 在 下 賤 人 面 前 。 
